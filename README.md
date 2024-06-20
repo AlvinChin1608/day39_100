@@ -12,6 +12,9 @@ This project tracks flight prices for various destinations using the Amadeus API
 3. Search cheap Flights
 4. If the price is lower than in the sheet, send a message
 
+## Google Sheet
+https://docs.google.com/spreadsheets/d/1nPTyNo2Nb9c9J-BQWFlBvtxhH-N2-r_51QJbuvpxCcQ/edit?usp=sharing
+
 ## Screenshots
 __Google Spreadsheet containing minimum prices:__
 
