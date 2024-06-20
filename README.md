@@ -14,9 +14,11 @@ This project tracks flight prices for various destinations using the Amadeus API
 
 ## Screenshots
 __Google Spreadsheet containing minimum prices:__
+
 ![](https://github.com/AlvinChin1608/day39_100/blob/main/Google_Spreadsheet_screenshot.png)
 
 __PyCharm Console:__
+
 ![](https://github.com/AlvinChin1608/day39_100/blob/main/console_run_screenshot.png)
 
 __WhatsApp messages showing notifications:__
