@@ -9,7 +9,7 @@ This project tracks flight prices for various destinations using the Amadeus API
 
 1. Use Sheety to Read and Write Data to the Google Sheet
 2. Get the IATA codes using Amadeus
-3. Search cheap Flights
+3. Search for cheap Flights
 4. If the price is lower than in the sheet, send a message
 
 ## Google Sheet
