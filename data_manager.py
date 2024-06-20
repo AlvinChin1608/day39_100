@@ -5,6 +5,8 @@ from dotenv import load_dotenv
 # Load environment variable from the .env file
 load_dotenv("./vars/.env")
 
+# Google Sheet https://docs.google.com/spreadsheets/d/1nPTyNo2Nb9c9J-BQWFlBvtxhH-N2-r_51QJbuvpxCcQ/edit?usp=sharing
+
 SHEETY_PRICES_ENDPOINT = os.getenv("S_ENDPOINT")
 SHEETY_BASIC_TOKEN = os.getenv("S_TOKEN")
 
