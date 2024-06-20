@@ -13,7 +13,7 @@ This project tracks flight prices for various destinations using the Amadeus API
 4. If the price is lower than in the sheet, send a message
 
 ## Google Sheet
-This sheet allows users to input a city name, it will automatically generate the corresponding IATA code and set a flight budget for notifications. 
+This sheet allows users to input a city name, automatically generate the corresponding IATA code, and set a flight budget for notifications. The Sheety API service is used to retrieve and update data on the sheet.
 https://docs.google.com/spreadsheets/d/1nPTyNo2Nb9c9J-BQWFlBvtxhH-N2-r_51QJbuvpxCcQ/edit?usp=sharing
 
 ## Screenshots
